@@ -11,7 +11,7 @@ def argue(argument)
   return argument
 end
 
-def greeting
+def greeting(greeting,name)
 
 end
 
